@@ -1,0 +1,7 @@
+@font-face {
+	font-family: 'SOV_moton_ovl';
+	src: url('regular.eot?#iefix') format('embedded-opentype'), 
+		url('regular.woff') format('woff'), 
+		url('regular.ttf') format('truetype'),
+		url('regular.svg#SOV_moton_ovl') format('svg');
+}

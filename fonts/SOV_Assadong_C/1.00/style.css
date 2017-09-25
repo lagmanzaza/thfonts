@@ -1,0 +1,7 @@
+@font-face {
+	font-family: 'SOV_Assadong_C';
+	src: url('regular.eot?#iefix') format('embedded-opentype'), 
+		url('regular.woff') format('woff'), 
+		url('regular.ttf') format('truetype'),
+		url('regular.svg#SOV_Assadong_C') format('svg');
+}

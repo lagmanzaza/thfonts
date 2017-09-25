@@ -1,0 +1,7 @@
+@font-face {
+	font-family: 'was@prathoeng';
+	src: url('regular.eot?#iefix') format('embedded-opentype'), 
+		url('regular.woff') format('woff'), 
+		url('regular.ttf') format('truetype'),
+		url('regular.svg#was@prathoengNPf0nt.comWAS') format('svg');
+}

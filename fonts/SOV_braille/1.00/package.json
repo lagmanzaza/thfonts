@@ -1,0 +1,15 @@
+{
+	"keywords": [
+		"คนตาบอด",
+		"ผู้พิการ",
+		"เบรลล์"
+	],
+	"homepage": "http://www.f0nt.com/release/sov-braille/",
+	"license": "F0nt",
+	"author": {
+		"name": "uvSOV",
+		"url": "http://www.f0nt.com/author/uvsov/"
+	},
+	"name": "SOV_braille",
+	"version": "1.00"
+}

@@ -1,0 +1,15 @@
+{
+	"keywords": [
+		"code",
+		"hitech",
+		"monospace"
+	],
+	"homepage": "http://www.f0nt.com/release/sov_monospace/",
+	"license": "F0nt",
+	"author": {
+		"name": "uvSOV",
+		"url": "http://www.f0nt.com/author/uvsov/"
+	},
+	"name": "SOV_monospace",
+	"version": "1.00"
+}

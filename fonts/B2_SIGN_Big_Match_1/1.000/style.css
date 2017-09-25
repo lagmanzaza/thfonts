@@ -1,0 +1,9 @@
+@font-face {
+	font-family: 'B2 SIGN Big Match 1';
+	src: url('bold_italic.eot?#iefix') format('embedded-opentype'), 
+		url('bold_italic.woff') format('woff'), 
+		url('bold_italic.ttf') format('truetype'),
+		url('bold_italic.svg#B2SIGNBigMatch1-BoldItalic') format('svg');
+	font-weight: bold;
+	font-style: italic;
+}

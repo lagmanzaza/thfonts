@@ -1,0 +1,14 @@
+{
+	"keywords": [
+		"ligature",
+		"ทดลอง"
+	],
+	"homepage": "http://www.f0nt.com/release/sov_moton/",
+	"license": "F0nt",
+	"author": {
+		"name": "uvSOV",
+		"url": "http://www.f0nt.com/author/uvsov/"
+	},
+	"name": "SOV_moton_sra",
+	"version": "004.012"
+}

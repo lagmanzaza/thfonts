@@ -1,0 +1,15 @@
+{
+	"keywords": [
+		"buddha",
+		"fancy",
+		"traditional"
+	],
+	"homepage": "http://www.f0nt.com/release/sov_naga/",
+	"license": "F0nt",
+	"author": {
+		"name": "uvSOV",
+		"url": "http://www.f0nt.com/author/uvsov/"
+	},
+	"name": "SOV_naga",
+	"version": "004.012"
+}

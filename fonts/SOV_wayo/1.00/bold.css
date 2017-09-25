@@ -1,0 +1,8 @@
+@font-face {
+	font-family: 'SOV_wayo';
+	src: url('bold.eot?#iefix') format('embedded-opentype'), 
+		url('bold.woff') format('woff'), 
+		url('bold.ttf') format('truetype'),
+		url('bold.svg#SOV_wayo-Bold') format('svg');
+	font-weight: bold;
+}

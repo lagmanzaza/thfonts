@@ -1,0 +1,15 @@
+{
+	"keywords": [
+		"กีฬา",
+		"ฟุตบอล",
+		"เหลี่ยม"
+	],
+	"homepage": "http://www.f0nt.com/release/tst-cheer-thai/",
+	"license": "F0nt",
+	"author": {
+		"name": "TST (Thai Smart Type)",
+		"url": "http://www.f0nt.com/author/tst/"
+	},
+	"name": "TST cheer thai v.2",
+	"version": "2.000"
+}

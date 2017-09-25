@@ -1,0 +1,8 @@
+@font-face {
+	font-family: 'OneManShow';
+	src: url('oblique.eot?#iefix') format('embedded-opentype'), 
+		url('oblique.woff') format('woff'), 
+		url('oblique.ttf') format('truetype'),
+		url('oblique.svg#OneManShow-Oblique') format('svg');
+	font-style: oblique;
+}
